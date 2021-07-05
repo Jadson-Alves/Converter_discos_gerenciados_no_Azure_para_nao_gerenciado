@@ -1,0 +1,1 @@
+# Converter_discos_gerenciados_no-Azure_para_n-o_gerenciado
